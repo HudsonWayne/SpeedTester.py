@@ -4,4 +4,5 @@ import speedtest
 sp = Tk()
 sp.title("Internet Speed Test") 
 sp.geometry("300x500")
+sp.config(bg = "Blue")
 sp.mainloop()
