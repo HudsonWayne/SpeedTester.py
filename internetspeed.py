@@ -21,7 +21,7 @@ lab.place(x=40, y= 40)
 lab = Label(sp,text="Internet Speed Test",bg="Blue",fg="White",font=("Arial",20,"bold"))
 lab.place(x=40, y= 40)
 
-button = Button(sp,text="Check Speed", font=("Time New Roman", 30,"Bold",))
+button = Button(sp,text="Check Speed", font=("Time New Roman", 3,"Bold",))
 
 
 
